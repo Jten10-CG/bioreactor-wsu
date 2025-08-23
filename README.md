@@ -30,5 +30,5 @@
        alt="Red Divider"
        width="1000"
        height="100"
-       style="margin-top:-500000px; margin-bottom:-2000000px;">
+       style="margin-top:-5000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000px; margin-bottom:-2000000px;">
 </p>
