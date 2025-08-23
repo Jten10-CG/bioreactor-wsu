@@ -26,5 +26,4 @@
   </ol>
 </details>
 
-![-----------------------------------------------------]<img width="565" height="376" alt="image" src="https://github.com/user-attachments/assets/d57b0396-ffd2-4f1f-bd98-9fc5bd83221a" />
-)
+<img width="700" height="376" alt="image" src="https://github.com/user-attachments/assets/473576a0-f67b-4246-8ec2-2aa34283e347" />
