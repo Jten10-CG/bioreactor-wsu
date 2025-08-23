@@ -25,4 +25,10 @@
     <li><a href="#Acknowledgements"> Acknowledgments </a></li>
   </ol>
 </details>
-<img width="100000" height="100" alt="image" src="https://github.com/user-attachments/assets/473576a0-f67b-4246-8ec2-2aa34283e347 margin-top:-10px;">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/473576a0-f67b-4246-8ec2-2aa34283e347"
+       alt="Red Divider"
+       width="1000"
+       height="10"
+       style="margin-top:-10px; margin-bottom:20px;">
+</p>
