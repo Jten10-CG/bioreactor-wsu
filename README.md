@@ -5,3 +5,23 @@
 <h3 align="center"> WSU College Of Engineering </h3>
 <h5 align="center"> Project - <a href="https://wsu.edu//">Washington State University</a> (Summer 2025) </h5>
 
+<!-- TABLE OF CONTENTS -->
+<h2 id="table-of-contents"> :book: Table of Contents</h2>
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project"> About The Project</a></li>
+    <li><a href="#overview"> Overview</a></li>
+    <li><a href="#file-format-specification"> File Format Specification</a></li>
+    <li><a href="#project-file-description"> Project File Description</a></li>
+    <li><a href="#hardware-requierments"> Hardware Requierments</a></li>li>
+    <li><a href="#software-requierments"> Software Requierments</a></li>li>
+    <li><a href="#setup-instructions"> Setup Instructions</a></li>
+    <li><a href="#usage"> usage </a></li>
+    <li><a href="#example-output"> Example Output </a></li>
+    <li><a href="#Troubleshoot"> Troubleshoot </a></li>
+    <li><a href="#future-improvements"> Future Improvements </a></li>
+    <li><a href="#Acknowledgements"> Acknowledgments </a></li>
+  </ol>
+</details>
