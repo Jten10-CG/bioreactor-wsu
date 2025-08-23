@@ -25,4 +25,4 @@
     <li><a href="#Acknowledgements"> Acknowledgments </a></li>
   </ol>
 </details>
-<img width="700" height="376" alt="image" src="https://github.com/user-attachments/assets/473576a0-f67b-4246-8ec2-2aa34283e347" />
+<img width="100000" height="376" alt="image" src="https://github.com/user-attachments/assets/473576a0-f67b-4246-8ec2-2aa34283e347" />
