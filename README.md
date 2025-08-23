@@ -6,7 +6,7 @@
 <h5 align="center"> Project - <a href="https://wsu.edu//">Washington State University</a> (Summer 2025) </h5>
 
 <!-- TABLE OF CONTENTS -->
-<h2 id="table-of-contents"> :book: Table of Contents</h2>
+<h2 id="table-of-contents">  Table of Contents</h2>
 
 <details open="open">
   <summary>Table of Contents</summary>
