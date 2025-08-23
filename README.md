@@ -15,8 +15,8 @@
     <li><a href="#overview"> Overview</a></li>
     <li><a href="#file-format-specification"> File Format Specification</a></li>
     <li><a href="#project-file-description"> Project File Description</a></li>
-    <li><a href="#hardware-requierments"> Hardware Requierments</a></li>li>
-    <li><a href="#software-requierments"> Software Requierments</a></li>li>
+    <li><a href="#hardware-requierments"> Hardware Requierments</a></li>
+    <li><a href="#software-requierments"> Software Requierments</a></li>
     <li><a href="#setup-instructions"> Setup Instructions</a></li>
     <li><a href="#usage"> usage </a></li>
     <li><a href="#example-output"> Example Output </a></li>
