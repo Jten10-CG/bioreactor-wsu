@@ -24,4 +24,5 @@
     <li><a href="#future-improvements"> Future Improvements </a></li>
     <li><a href="#Acknowledgements"> Acknowledgments </a></li>
   </ol>
-</details> <img width="100000" height="100" alt="image" src="https://github.com/user-attachments/assets/473576a0-f67b-4246-8ec2-2aa34283e347" />
+</details>
+<img width="100000" height="100" alt="image" src="https://github.com/user-attachments/assets/473576a0-f67b-4246-8ec2-2aa34283e347 margin-top:-10px;">
