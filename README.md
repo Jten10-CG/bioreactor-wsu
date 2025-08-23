@@ -18,7 +18,7 @@
     <li><a href="#hardware-requierments"> Hardware Requierments</a></li>
     <li><a href="#software-requierments"> Software Requierments</a></li>
     <li><a href="#setup-instructions"> Setup Instructions</a></li>
-    <li><a href="#usage"> usage </a></li>
+    <li><a href="#usage"> Usage </a></li>
     <li><a href="#example-output"> Example Output </a></li>
     <li><a href="#Troubleshoot"> Troubleshoot </a></li>
     <li><a href="#future-improvements"> Future Improvements </a></li>
