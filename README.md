@@ -23,7 +23,7 @@
     <li><a href="#Troubleshoot"> Troubleshoot </a></li>
     <li><a href="#future-improvements"> Future Improvements </a></li>
     <li><a href="#Acknowledgements"> Acknowledgments </a></li>
-    <img width="10000" height="100" alt="image" src="https://github.com/user-attachments/assets/478c61e6-ce87-4a73-a924-a97223929126" />
+    <img width="100000000000000000" height="100" alt="image" src="https://github.com/user-attachments/assets/478c61e6-ce87-4a73-a924-a97223929126" />
   </ol>
 </details>
 
